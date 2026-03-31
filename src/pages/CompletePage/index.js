@@ -5,7 +5,7 @@ const CompletePage = () => {
     <div>
       
     </div>
-  )
+  );
 }
 
-export default CompletePage
+export default CompletePage;
